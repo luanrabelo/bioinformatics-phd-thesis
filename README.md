@@ -16,13 +16,13 @@
 # Thesis Overview
 This thesis explores the development and implementation of computational technologies in the field of bioinformatics, with a particular emphasis on their applications in genetics, biodiversity, and evolutionary studies. The research encompasses the creation of an educational web platform integrated with Alexa artificial intelligence, aimed at enhancing teaching initiatives, as well as the development of a Python-based application for the analysis of genetic and biodiversity data. **The thesis and all published articles include audio descriptions for accessibility purposes, ensuring inclusive access to the research content.**
 
-**This work is competing for the PRÊMIO JOVEM GENETICISTA 2025 - FRANCISCO MAURO SALZANO.** <a href="assets/premio_audio_description.wav" download="Premio_Audio_Description.wav">🔊 Audio Description</a>
+**This work is competing for the PRÊMIO JOVEM GENETICISTA 2025 - FRANCISCO MAURO SALZANO.** <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/premio_audio_description.wav" download="Premio_Audio_Description.wav">🔊 Audio Description</a>
 
 ## Download Thesis
-You can download the thesis in PDF format from the following link: <a href="assets/thesis.pdf" download="Thesis.pdf">Download Thesis</a>
+You can download the thesis in PDF format from the following link: <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/thesis.pdf" download="Thesis.pdf">Download Thesis</a>
 
 ## Audio Description of the Thesis
-An audio description of the thesis is available for **visually impaired readers**. The audio description can be accessed here: <a href="assets/thesis_audio_description.wav" download="Thesis_Audio_Description.wav">Audio Description</a>
+An audio description of the thesis is available for **visually impaired readers**. The audio description can be accessed here: <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/thesis_audio_description.wav" download="Thesis_Audio_Description.wav">Audio Description</a>
 ***
 
 # Thesis Chapter 2: SynGenes
@@ -37,7 +37,7 @@ An audio description of the thesis is available for **visually impaired readers*
 |---------------|-------------|------|-------------------|
 | **🐍 Python Class** | Complete implementation for programmatic use | <a href="https://github.com/luanrabelo/SynGenes" target="_blank">📁 SynGenes GitHub Repository</a> | - |
 | **🌐 Web Form** | Intuitive interface for non-programmers | <a href="https://luanrabelo.github.io/SynGenes" target="_blank">🔗 SynGenes Web Form</a> | - |
-| **📄 Scientific Article** | Published in BMC Bioinformatics | <a href="https://doi.org/10.1186/s12859-024-05781-y" target="_blank">📖 SynGenes in BMC Bioinformatics</a> | <a href="assets/syngenes_article_audio.wav" download="SynGenes_Article_Audio.wav">🔊 Audio Description</a> |
+| **📄 Scientific Article** | Published in BMC Bioinformatics | <a href="https://doi.org/10.1186/s12859-024-05781-y" target="_blank">📖 SynGenes in BMC Bioinformatics</a> | <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/syngenes_article_audio.wav" download="SynGenes_Article_Audio.wav">🔊 Audio Description</a> |
 ***
 
 # Thesis Chapter 3: SyBA
@@ -52,7 +52,7 @@ An audio description of the thesis is available for **visually impaired readers*
 |---------------|-------------|------|-------------------|
 | **🐍 Python Class** | Complete implementation for programmatic use | <a href="https://github.com/luanrabelo/SyBA" target="_blank">📁 SyBA GitHub Repository</a> | - |
 | **🌐 Web Form** | Intuitive interface for non-programmers | <a href="https://luanrabelo.github.io/SyBA/" target="_blank">🔗 SyBA Web Form</a> | - |
-| **📄 Scientific Article** | Research manuscript (not yet published) | - | <a href="assets/syba_article_audio.wav" download="SyBA_Article_Audio.wav">🔊 Audio Description</a> |
+| **📄 Scientific Article** | Research manuscript (not yet published) | - | <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/syba_article_audio.wav" download="SyBA_Article_Audio.wav">🔊 Audio Description</a> |
 ***
 
 # Thesis Chapter 4: dataFishing
@@ -67,7 +67,7 @@ An audio description of the thesis is available for **visually impaired readers*
 |---------------|-------------|------|-------------------|
 | **🐍 Python Class** | Complete implementation for programmatic use | <a href="https://github.com/luanrabelo/dataFishing" target="_blank">📁 dataFishing GitHub Repository</a> | - |
 | **🌐 Web Form** | Intuitive interface for non-programmers | <a href="https://luanrabelo.github.io/dataFishing/" target="_blank">🔗 dataFishing Web Form</a> | - |
-| **📄 Scientific Article** | Published in Ecological Informatics | <a href="https://doi.org/10.1016/j.ecoinf.2024.102970" target="_blank">📖 dataFishing in BMC Ecological Informatics</a> | <a href="assets/datafishing_article_audio.wav" download="dataFishing_Article_Audio.wav">🔊 Audio Description</a> |
+| **📄 Scientific Article** | Published in Ecological Informatics | <a href="https://doi.org/10.1016/j.ecoinf.2024.102970" target="_blank">📖 dataFishing in BMC Ecological Informatics</a> | <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/datafishing_article_audio.wav" download="dataFishing_Article_Audio.wav">🔊 Audio Description</a> |
 ***
 
 # Thesis Chapter 5: PUMAS
@@ -82,7 +82,7 @@ An audio description of the thesis is available for **visually impaired readers*
 |---------------|-------------|------|-------------------|
 | **🌐 Interactive Web Tool** | Complete web-based interface for genome visualization | <a href="https://luanrabelo.github.io/PUMAS/" target="_blank">🔗 PUMAS Web Tool</a> | - |
 | **💻 Source Code** | HTML and JavaScript implementation | <a href="https://github.com/luanrabelo/PUMAS" target="_blank">📁 PUMAS GitHub Repository</a> | - |
-| **📄 Scientific Article** | Research manuscript (not yet published) | - | <a href="assets/pumas_article_audio.wav" download="PUMAS_Article_Audio.wav">🔊 Audio Description</a> |
+| **📄 Scientific Article** | Research manuscript (not yet published) | - | <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/pumas_article_audio.wav" download="PUMAS_Article_Audio.wav">🔊 Audio Description</a> |
 ***
 
 # Thesis Chapter 6: ForAlexa
@@ -98,6 +98,6 @@ An audio description of the thesis is available for **visually impaired readers*
 | **🌐 Web Platform** | Complete online tool for Alexa Skills development | <a href="https://levo.ufpa.br/ForAlexa/" target="_blank">🔗 ForAlexa Web Platform</a> | - |
 | **💻 Source Code** | Open-source implementation | <a href="https://github.com/luanrabelo/ForAlexa" target="_blank">📁 ForAlexa GitHub Repository</a> | - |
 | **🎯 Population Genetics Skill** | Example Alexa Skill for undergraduate course | <a href="https://www.amazon.com.br/dp/B092G8B2YW" target="_blank">📱 Alexa Skill Store (Brazil)</a> | - |
-| **📄 Scientific Article** | Published research (Rabelo et al. 2022) | - | <a href="assets/foralexa_article_audio.wav" download="ForAlexa_Article_Audio.wav">🔊 Audio Description</a> |
+| **📄 Scientific Article** | Published research (Rabelo et al. 2022) | - | <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/foralexa_article_audio.wav" download="ForAlexa_Article_Audio.wav">🔊 Audio Description</a> |
 
 ***
