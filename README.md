@@ -19,7 +19,7 @@ This thesis explores the development and implementation of computational technol
 **This work is competing for the PRÊMIO JOVEM GENETICISTA 2025 - FRANCISCO MAURO SALZANO.** <a href="https://raw.githubusercontent.com/luanrabelo/bioinformatics-phd-thesis/stable/assets/premio_audio_description.wav" download="Premio_Audio_Description.wav" target="_blank">🔊 Audio Description</a>
 
 ## Download Thesis
-You can download the thesis in PDF format from the following link: <a href="https://raw.githubusercontent.com/luanrabelo/bioinformatics-phd-thesis/stable/assets/thesis.pdf" download="Thesis.pdf"  target="_blank">Download Thesis</a>
+You can download the thesis in PDF format from the following link: <a href="https://raw.githubusercontent.com/luanrabelo/bioinformatics-phd-thesis/stable/assets/thesis.pdf" download="Thesis.pdf" target="_blank">Download Thesis</a>
 
 ## Audio Description of the Thesis
 An audio description of the thesis is available for **visually impaired readers**. The audio description can be accessed here: <a href="https://raw.githubusercontent.com/luanrabelo/bioinformatics-phd-thesis/stable/assets/thesis_audio_description.wav" download="Thesis_Audio_Description.wav" target="_blank">Audio Description</a>
