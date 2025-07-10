@@ -16,13 +16,13 @@
 # Thesis Overview
 This thesis explores the development and implementation of computational technologies in the field of bioinformatics, with a particular emphasis on their applications in genetics, biodiversity, and evolutionary studies. The research encompasses the creation of an educational web platform integrated with Alexa artificial intelligence, aimed at enhancing teaching initiatives, as well as the development of a Python-based application for the analysis of genetic and biodiversity data. **The thesis and all published articles include audio descriptions for accessibility purposes, ensuring inclusive access to the research content.**
 
-**This work is competing for the PRÊMIO JOVEM GENETICISTA 2025 - FRANCISCO MAURO SALZANO.** <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/premio_audio_description.wav" download="Premio_Audio_Description.wav">🔊 Audio Description</a>
+**This work is competing for the PRÊMIO JOVEM GENETICISTA 2025 - FRANCISCO MAURO SALZANO.** <a href="https://raw.githubusercontent.com/luanrabelo/SynGenes/stable/assets/premio_audio_description.wav" download="Premio_Audio_Description.wav">🔊 Audio Description</a>
 
 ## Download Thesis
-You can download the thesis in PDF format from the following link: <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/thesis.pdf" download="Thesis.pdf">Download Thesis</a>
+You can download the thesis in PDF format from the following link: <a href="https://raw.githubusercontent.com/luanrabelo/SynGenes/stable/assets/thesis.pdf" download="Thesis.pdf">Download Thesis</a>
 
 ## Audio Description of the Thesis
-An audio description of the thesis is available for **visually impaired readers**. The audio description can be accessed here: <a href="https://github.com/luanrabelo/bioinformatics-phd-thesis/raw/main/assets/thesis_audio_description.wav" download="Thesis_Audio_Description.wav">Audio Description</a>
+An audio description of the thesis is available for **visually impaired readers**. The audio description can be accessed here: <a href="https://raw.githubusercontent.com/luanrabelo/SynGenes/stable/assets/thesis_audio_description.wav" download="Thesis_Audio_Description.wav">Audio Description</a>
 ***
 
 # Thesis Chapter 2: SynGenes
